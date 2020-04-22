@@ -267,4 +267,3 @@ class Solution {
         return left;
     }
 }
-
